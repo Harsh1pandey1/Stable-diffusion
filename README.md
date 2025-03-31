@@ -6,12 +6,12 @@ This project implements text-to-image generation using Stable Diffusion, leverag
 
 Features
 
-Generate images from text prompts using a pre-trained Stable Diffusion model.
+* Generate images from text prompts using a pre-trained Stable Diffusion model.
 
-Modify prompts to refine and enhance generated images.
+* Modify prompts to refine and enhance generated images.
 
-Adjust image resolution and quality.
+* Adjust image resolution and quality.
 
-Supports GPU acceleration for faster processing.
+* Supports GPU acceleration for faster processing.
 
-Uses Hugging Face Diffusers for streamlined implementation.
+* Uses Hugging Face Diffusers for streamlined implementation.
